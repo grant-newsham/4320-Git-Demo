@@ -1,1 +1,2 @@
-# 4320-Git-Demo
+# Git Demo in class
+Actually learning git!
